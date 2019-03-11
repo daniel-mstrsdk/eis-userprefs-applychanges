@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE StyleCatalog SYSTEM "styleCatalog.dtd">
+<StyleCatalog>
+    <TransformDefns>
+        <TransformDefn class="com.eis.mstr.transforms.CustomPreferencesToolbarTransform" name="PreferencesToolbarTransform"/>
+    </TransformDefns>
+</StyleCatalog>
