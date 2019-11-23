@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.mstrsdk.mstr</groupId>
+        <groupId>com.mstsdk</groupId>
         <artifactId>mstr-plugin-bom</artifactId>
-        <version>11.1</version>
+        <version>10.4</version>
     </parent>
 
     <groupId>com.eis.mstr.plugins</groupId>
